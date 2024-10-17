@@ -1,3 +1,7 @@
+2024-10-18
+rt-n56u/trunk/user/shared/defaults.h 中修改 LAN 默认 IP 已经成功。
+
+
 2024-9-12
 内核仍旧使用3.4，比较稳定。
 
